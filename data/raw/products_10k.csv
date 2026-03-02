@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,brand,price,description,rating
+P0001,Adidas Accessories Model 1,Sports,Accessories,Adidas,1049,"Adidas Accessories with premium quality, latest technology and advanced features for daily use",4.6
+P0002,Asus Tablets Model 2,Electronics,Tablets,Asus,454,"Asus Tablets with premium quality, latest technology and advanced features for daily use",3.8
+P0003,HP Laptops Model 3,Electronics,Laptops,HP,1794,"HP Laptops with premium quality, latest technology and advanced features for daily use",5.0
+P0004,Dell Cookware Model 4,Home & Kitchen,Cookware,Dell,1177,"Dell Cookware with premium quality, latest technology and advanced features for daily use",4.7
+P0005,Dell Fitness Model 5,Sports,Fitness,Dell,277,"Dell Fitness with premium quality, latest technology and advanced features for daily use",4.9
+P0006,Nike Appliances Model 6,Home & Kitchen,Appliances,Nike,1628,"Nike Appliances with premium quality, latest technology and advanced features for daily use",4.3
+P0007,LG Accessories Model 7,Sports,Accessories,LG,1385,"LG Accessories with premium quality, latest technology and advanced features for daily use",4.9
+P0008,Samsung Fitness Model 8,Sports,Fitness,Samsung,1128,"Samsung Fitness with premium quality, latest technology and advanced features for daily use",3.9
+P0009,HP Watches Model 9,Fashion,Watches,HP,1353,"HP Watches with premium quality, latest technology and advanced features for daily use",4.0
+P0010,Dell Accessories Model 10,Sports,Accessories,Dell,589,"Dell Accessories with premium quality, latest technology and advanced features for daily use",4.5
+P0011,Samsung Watches Model 11,Fashion,Watches,Samsung,1618,"Samsung Watches with premium quality, latest technology and advanced features for daily use",4.9
+P0012,LG Clothing Model 12,Fashion,Clothing,LG,1286,"LG Clothing with premium quality, latest technology and advanced features for daily use",3.8
+P0013,Adidas Fitness Model 13,Sports,Fitness,Adidas,1402,"Adidas Fitness with premium quality, latest technology and advanced features for daily use",4.5
+P0014,Samsung Furniture Model 14,Home & Kitchen,Furniture,Samsung,102,"Samsung Furniture with premium quality, latest technology and advanced features for daily use",3.7
+P0015,Asus Laptops Model 15,Electronics,Laptops,Asus,308,"Asus Laptops with premium quality, latest technology and advanced features for daily use",4.8
+P0016,HP Tablets Model 16,Electronics,Tablets,HP,1760,"HP Tablets with premium quality, latest technology and advanced features for daily use",4.9
+P0017,LG Accessories Model 17,Sports,Accessories,LG,302,"LG Accessories with premium quality, latest technology and advanced features for daily use",4.1
+P0018,Adidas Outdoor Model 18,Sports,Outdoor,Adidas,1031,"Adidas Outdoor with premium quality, latest technology and advanced features for daily use",4.5
+P0019,Apple Accessories Model 19,Sports,Accessories,Apple,944,"Apple Accessories with premium quality, latest technology and advanced features for daily use",3.7
+P0020,Nike Furniture Model 20,Home & Kitchen,Furniture,Nike,1162,"Nike Furniture with premium quality, latest technology and advanced features for daily use",4.7
+P0021,Asus Clothing Model 21,Fashion,Clothing,Asus,1341,"Asus Clothing with premium quality, latest technology and advanced features for daily use",4.5
+P0022,Philips Accessories Model 22,Sports,Accessories,Philips,805,"Philips Accessories with premium quality, latest technology and advanced features for daily use",3.7
+P0023,Adidas Laptops Model 23,Electronics,Laptops,Adidas,118,"Adidas Laptops with premium quality, latest technology and advanced features for daily use",4.6
+P0024,Adidas Shoes Model 24,Fashion,Shoes,Adidas,1703,"Adidas Shoes with premium quality, latest technology and advanced features for daily use",4.2
+P0025,Sony Watches Model 25,Fashion,Watches,Sony,832,"Sony Watches with premium quality, latest technology and advanced features for daily use",3.7
+P0026,Puma Smartphones Model 26,Electronics,Smartphones,Puma,359,"Puma Smartphones with premium quality, latest technology and advanced features for daily use",3.8
+P0027,Samsung Smartphones Model 27,Electronics,Smartphones,Samsung,1432,"Samsung Smartphones with premium quality, latest technology and advanced features for daily use",4.9
+P0028,Puma Outdoor Model 28,Sports,Outdoor,Puma,355,"Puma Outdoor with premium quality, latest technology and advanced features for daily use",4.4
+P0029,Dell Smartphones Model 29,Electronics,Smartphones,Dell,1000,"Dell Smartphones with premium quality, latest technology and advanced features for daily use",4.5
+P0030,Nike Smartphones Model 30,Electronics,Smartphones,Nike,514,"Nike Smartphones with premium quality, latest technology and advanced features for daily use",3.7
+P0031,HP Appliances Model 31,Home & Kitchen,Appliances,HP,1438,"HP Appliances with premium quality, latest technology and advanced features for daily use",4.1
+P0032,Lenovo Watches Model 32,Fashion,Watches,Lenovo,98,"Lenovo Watches with premium quality, latest technology and advanced features for daily use",3.6
+P0033,Lenovo Headphones Model 33,Electronics,Headphones,Lenovo,973,"Lenovo Headphones with premium quality, latest technology and advanced features for daily use",3.7
+P0034,Puma Clothing Model 34,Fashion,Clothing,Puma,492,"Puma Clothing with premium quality, latest technology and advanced features for daily use",4.4
+P0035,Nike Fitness Model 35,Sports,Fitness,Nike,1448,"Nike Fitness with premium quality, latest technology and advanced features for daily use",4.2
+P0036,Asus Laptops Model 36,Electronics,Laptops,Asus,1895,"Asus Laptops with premium quality, latest technology and advanced features for daily use",4.6
+P0037,Puma Clothing Model 37,Fashion,Clothing,Puma,1324,"Puma Clothing with premium quality, latest technology and advanced features for daily use",4.5
+P0038,Sony Clothing Model 38,Fashion,Clothing,Sony,58,"Sony Clothing with premium quality, latest technology and advanced features for daily use",3.9
+P0039,Adidas Furniture Model 39,Home & Kitchen,Furniture,Adidas,209,"Adidas Furniture with premium quality, latest technology and advanced features for daily use",4.0
+P0040,Nike Appliances Model 40,Home & Kitchen,Appliances,Nike,445,"Nike Appliances with premium quality, latest technology and advanced features for daily use",4.0
+P0041,Dell Fitness Model 41,Sports,Fitness,Dell,1590,"Dell Fitness with premium quality, latest technology and advanced features for daily use",4.6
+P0042,Adidas Watches Model 42,Fashion,Watches,Adidas,814,"Adidas Watches with premium quality, latest technology and advanced features for daily use",4.1
+P0043,Nike Furniture Model 43,Home & Kitchen,Furniture,Nike,1260,"Nike Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0044,Dell Fitness Model 44,Sports,Fitness,Dell,498,"Dell Fitness with premium quality, latest technology and advanced features for daily use",5.0
+P0045,Adidas Accessories Model 45,Sports,Accessories,Adidas,565,"Adidas Accessories with premium quality, latest technology and advanced features for daily use",3.8
+P0046,Dell Accessories Model 46,Sports,Accessories,Dell,1491,"Dell Accessories with premium quality, latest technology and advanced features for daily use",4.8
+P0047,HP Smartphones Model 47,Electronics,Smartphones,HP,1661,"HP Smartphones with premium quality, latest technology and advanced features for daily use",3.9
+P0048,Dell Fitness Model 48,Sports,Fitness,Dell,1762,"Dell Fitness with premium quality, latest technology and advanced features for daily use",3.9
+P0049,HP Clothing Model 49,Fashion,Clothing,HP,911,"HP Clothing with premium quality, latest technology and advanced features for daily use",4.4
+P0050,Sony Watches Model 50,Fashion,Watches,Sony,1401,"Sony Watches with premium quality, latest technology and advanced features for daily use",4.2
+P0051,Dell Cookware Model 51,Home & Kitchen,Cookware,Dell,1982,"Dell Cookware with premium quality, latest technology and advanced features for daily use",4.7
+P0052,LG Fitness Model 52,Sports,Fitness,LG,1311,"LG Fitness with premium quality, latest technology and advanced features for daily use",3.6
+P0053,Apple Shoes Model 53,Fashion,Shoes,Apple,896,"Apple Shoes with premium quality, latest technology and advanced features for daily use",3.7
+P0054,Adidas Tablets Model 54,Electronics,Tablets,Adidas,1646,"Adidas Tablets with premium quality, latest technology and advanced features for daily use",4.8
+P0055,Asus Accessories Model 55,Sports,Accessories,Asus,1033,"Asus Accessories with premium quality, latest technology and advanced features for daily use",3.7
+P0056,HP Outdoor Model 56,Sports,Outdoor,HP,1925,"HP Outdoor with premium quality, latest technology and advanced features for daily use",3.8
+P0057,Adidas Cookware Model 57,Home & Kitchen,Cookware,Adidas,494,"Adidas Cookware with premium quality, latest technology and advanced features for daily use",4.5
+P0058,LG Headphones Model 58,Electronics,Headphones,LG,127,"LG Headphones with premium quality, latest technology and advanced features for daily use",4.1
+P0059,Samsung Furniture Model 59,Home & Kitchen,Furniture,Samsung,77,"Samsung Furniture with premium quality, latest technology and advanced features for daily use",4.4
+P0060,Apple Accessories Model 60,Sports,Accessories,Apple,894,"Apple Accessories with premium quality, latest technology and advanced features for daily use",4.5
+P0061,Sony Outdoor Model 61,Sports,Outdoor,Sony,1410,"Sony Outdoor with premium quality, latest technology and advanced features for daily use",3.8
+P0062,Apple Appliances Model 62,Home & Kitchen,Appliances,Apple,1309,"Apple Appliances with premium quality, latest technology and advanced features for daily use",3.6
+P0063,Puma Headphones Model 63,Electronics,Headphones,Puma,854,"Puma Headphones with premium quality, latest technology and advanced features for daily use",4.3
+P0064,Nike Furniture Model 64,Home & Kitchen,Furniture,Nike,1245,"Nike Furniture with premium quality, latest technology and advanced features for daily use",4.9
+P0065,HP Headphones Model 65,Electronics,Headphones,HP,1937,"HP Headphones with premium quality, latest technology and advanced features for daily use",4.7
+P0066,Apple Appliances Model 66,Home & Kitchen,Appliances,Apple,1616,"Apple Appliances with premium quality, latest technology and advanced features for daily use",5.0
+P0067,Dell Appliances Model 67,Home & Kitchen,Appliances,Dell,828,"Dell Appliances with premium quality, latest technology and advanced features for daily use",3.8
+P0068,Puma Smartphones Model 68,Electronics,Smartphones,Puma,302,"Puma Smartphones with premium quality, latest technology and advanced features for daily use",4.9
+P0069,Lenovo Smartphones Model 69,Electronics,Smartphones,Lenovo,1251,"Lenovo Smartphones with premium quality, latest technology and advanced features for daily use",4.2
+P0070,Samsung Clothing Model 70,Fashion,Clothing,Samsung,1771,"Samsung Clothing with premium quality, latest technology and advanced features for daily use",4.6
+P0071,Lenovo Watches Model 71,Fashion,Watches,Lenovo,792,"Lenovo Watches with premium quality, latest technology and advanced features for daily use",4.6
+P0072,Puma Accessories Model 72,Sports,Accessories,Puma,1868,"Puma Accessories with premium quality, latest technology and advanced features for daily use",4.6
+P0073,Adidas Shoes Model 73,Fashion,Shoes,Adidas,1335,"Adidas Shoes with premium quality, latest technology and advanced features for daily use",4.4
+P0074,Lenovo Appliances Model 74,Home & Kitchen,Appliances,Lenovo,1828,"Lenovo Appliances with premium quality, latest technology and advanced features for daily use",4.0
+P0075,Adidas Clothing Model 75,Fashion,Clothing,Adidas,1867,"Adidas Clothing with premium quality, latest technology and advanced features for daily use",4.3
+P0076,Puma Furniture Model 76,Home & Kitchen,Furniture,Puma,793,"Puma Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0077,Lenovo Fitness Model 77,Sports,Fitness,Lenovo,1974,"Lenovo Fitness with premium quality, latest technology and advanced features for daily use",3.7
+P0078,Philips Smartphones Model 78,Electronics,Smartphones,Philips,1232,"Philips Smartphones with premium quality, latest technology and advanced features for daily use",4.0
+P0079,Sony Fitness Model 79,Sports,Fitness,Sony,334,"Sony Fitness with premium quality, latest technology and advanced features for daily use",5.0
+P0080,Sony Watches Model 80,Fashion,Watches,Sony,400,"Sony Watches with premium quality, latest technology and advanced features for daily use",4.5
+P0081,Philips Appliances Model 81,Home & Kitchen,Appliances,Philips,1936,"Philips Appliances with premium quality, latest technology and advanced features for daily use",3.7
+P0082,HP Headphones Model 82,Electronics,Headphones,HP,712,"HP Headphones with premium quality, latest technology and advanced features for daily use",3.7
+P0083,Apple Appliances Model 83,Home & Kitchen,Appliances,Apple,798,"Apple Appliances with premium quality, latest technology and advanced features for daily use",4.7
+P0084,Philips Fitness Model 84,Sports,Fitness,Philips,1292,"Philips Fitness with premium quality, latest technology and advanced features for daily use",3.9
+P0085,Asus Cookware Model 85,Home & Kitchen,Cookware,Asus,1601,"Asus Cookware with premium quality, latest technology and advanced features for daily use",3.8
+P0086,Sony Accessories Model 86,Sports,Accessories,Sony,1107,"Sony Accessories with premium quality, latest technology and advanced features for daily use",4.3
+P0087,Lenovo Shoes Model 87,Fashion,Shoes,Lenovo,1822,"Lenovo Shoes with premium quality, latest technology and advanced features for daily use",4.8
+P0088,HP Smartphones Model 88,Electronics,Smartphones,HP,107,"HP Smartphones with premium quality, latest technology and advanced features for daily use",4.1
+P0089,Apple Furniture Model 89,Home & Kitchen,Furniture,Apple,1785,"Apple Furniture with premium quality, latest technology and advanced features for daily use",4.2
+P0090,Nike Appliances Model 90,Home & Kitchen,Appliances,Nike,890,"Nike Appliances with premium quality, latest technology and advanced features for daily use",3.6
+P0091,Puma Appliances Model 91,Home & Kitchen,Appliances,Puma,249,"Puma Appliances with premium quality, latest technology and advanced features for daily use",3.7
+P0092,Samsung Furniture Model 92,Home & Kitchen,Furniture,Samsung,1988,"Samsung Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0093,Adidas Outdoor Model 93,Sports,Outdoor,Adidas,334,"Adidas Outdoor with premium quality, latest technology and advanced features for daily use",3.8
+P0094,Asus Headphones Model 94,Electronics,Headphones,Asus,131,"Asus Headphones with premium quality, latest technology and advanced features for daily use",3.6
+P0095,Puma Smartphones Model 95,Electronics,Smartphones,Puma,309,"Puma Smartphones with premium quality, latest technology and advanced features for daily use",4.2
+P0096,Dell Laptops Model 96,Electronics,Laptops,Dell,1559,"Dell Laptops with premium quality, latest technology and advanced features for daily use",4.7
+P0097,Philips Furniture Model 97,Home & Kitchen,Furniture,Philips,408,"Philips Furniture with premium quality, latest technology and advanced features for daily use",3.9
+P0098,Apple Clothing Model 98,Fashion,Clothing,Apple,1078,"Apple Clothing with premium quality, latest technology and advanced features for daily use",3.6
+P0099,Dell Fitness Model 99,Sports,Fitness,Dell,1839,"Dell Fitness with premium quality, latest technology and advanced features for daily use",4.6
+P0100,Nike Shoes Model 100,Fashion,Shoes,Nike,1092,"Nike Shoes with premium quality, latest technology and advanced features for daily use",4.0
+P0101,Asus Tablets Model 101,Electronics,Tablets,Asus,915,"Asus Tablets with premium quality, latest technology and advanced features for daily use",4.8
+P0102,Dell Cookware Model 102,Home & Kitchen,Cookware,Dell,187,"Dell Cookware with premium quality, latest technology and advanced features for daily use",4.2
+P0103,HP Laptops Model 103,Electronics,Laptops,HP,428,"HP Laptops with premium quality, latest technology and advanced features for daily use",3.8
+P0104,Puma Fitness Model 104,Sports,Fitness,Puma,1387,"Puma Fitness with premium quality, latest technology and advanced features for daily use",4.2
+P0105,Asus Furniture Model 105,Home & Kitchen,Furniture,Asus,556,"Asus Furniture with premium quality, latest technology and advanced features for daily use",3.8
+P0106,LG Laptops Model 106,Electronics,Laptops,LG,1857,"LG Laptops with premium quality, latest technology and advanced features for daily use",4.1
+P0107,Dell Smartphones Model 107,Electronics,Smartphones,Dell,363,"Dell Smartphones with premium quality, latest technology and advanced features for daily use",4.3
+P0108,Adidas Accessories Model 108,Sports,Accessories,Adidas,346,"Adidas Accessories with premium quality, latest technology and advanced features for daily use",4.6
+P0109,Lenovo Laptops Model 109,Electronics,Laptops,Lenovo,539,"Lenovo Laptops with premium quality, latest technology and advanced features for daily use",4.6
+P0110,Puma Laptops Model 110,Electronics,Laptops,Puma,1126,"Puma Laptops with premium quality, latest technology and advanced features for daily use",4.4
+P0111,Puma Clothing Model 111,Fashion,Clothing,Puma,1024,"Puma Clothing with premium quality, latest technology and advanced features for daily use",3.8
+P0112,Philips Shoes Model 112,Fashion,Shoes,Philips,624,"Philips Shoes with premium quality, latest technology and advanced features for daily use",3.5
+P0113,Asus Appliances Model 113,Home & Kitchen,Appliances,Asus,1808,"Asus Appliances with premium quality, latest technology and advanced features for daily use",3.9
+P0114,Nike Furniture Model 114,Home & Kitchen,Furniture,Nike,41,"Nike Furniture with premium quality, latest technology and advanced features for daily use",4.2
+P0115,Dell Outdoor Model 115,Sports,Outdoor,Dell,681,"Dell Outdoor with premium quality, latest technology and advanced features for daily use",4.1
+P0116,Samsung Clothing Model 116,Fashion,Clothing,Samsung,716,"Samsung Clothing with premium quality, latest technology and advanced features for daily use",4.4
+P0117,LG Headphones Model 117,Electronics,Headphones,LG,1485,"LG Headphones with premium quality, latest technology and advanced features for daily use",4.8
+P0118,Dell Outdoor Model 118,Sports,Outdoor,Dell,1518,"Dell Outdoor with premium quality, latest technology and advanced features for daily use",4.1
+P0119,Asus Cookware Model 119,Home & Kitchen,Cookware,Asus,1894,"Asus Cookware with premium quality, latest technology and advanced features for daily use",3.6
+P0120,HP Headphones Model 120,Electronics,Headphones,HP,1267,"HP Headphones with premium quality, latest technology and advanced features for daily use",5.0
+P0121,HP Fitness Model 121,Sports,Fitness,HP,704,"HP Fitness with premium quality, latest technology and advanced features for daily use",4.0
+P0122,Philips Furniture Model 122,Home & Kitchen,Furniture,Philips,210,"Philips Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0123,Puma Shoes Model 123,Fashion,Shoes,Puma,979,"Puma Shoes with premium quality, latest technology and advanced features for daily use",4.9
+P0124,Asus Furniture Model 124,Home & Kitchen,Furniture,Asus,1219,"Asus Furniture with premium quality, latest technology and advanced features for daily use",4.6
+P0125,LG Accessories Model 125,Sports,Accessories,LG,607,"LG Accessories with premium quality, latest technology and advanced features for daily use",3.8
+P0126,Nike Cookware Model 126,Home & Kitchen,Cookware,Nike,1544,"Nike Cookware with premium quality, latest technology and advanced features for daily use",3.8
+P0127,Asus Furniture Model 127,Home & Kitchen,Furniture,Asus,1047,"Asus Furniture with premium quality, latest technology and advanced features for daily use",4.4
+P0128,Samsung Fitness Model 128,Sports,Fitness,Samsung,652,"Samsung Fitness with premium quality, latest technology and advanced features for daily use",4.8
+P0129,Philips Outdoor Model 129,Sports,Outdoor,Philips,1529,"Philips Outdoor with premium quality, latest technology and advanced features for daily use",4.3
+P0130,Lenovo Fitness Model 130,Sports,Fitness,Lenovo,1864,"Lenovo Fitness with premium quality, latest technology and advanced features for daily use",3.6
+P0131,Lenovo Tablets Model 131,Electronics,Tablets,Lenovo,81,"Lenovo Tablets with premium quality, latest technology and advanced features for daily use",4.5
+P0132,Dell Outdoor Model 132,Sports,Outdoor,Dell,1619,"Dell Outdoor with premium quality, latest technology and advanced features for daily use",3.9
+P0133,LG Laptops Model 133,Electronics,Laptops,LG,1634,"LG Laptops with premium quality, latest technology and advanced features for daily use",4.7
+P0134,HP Accessories Model 134,Sports,Accessories,HP,1114,"HP Accessories with premium quality, latest technology and advanced features for daily use",4.8
+P0135,Dell Headphones Model 135,Electronics,Headphones,Dell,547,"Dell Headphones with premium quality, latest technology and advanced features for daily use",4.1
+P0136,Adidas Clothing Model 136,Fashion,Clothing,Adidas,1920,"Adidas Clothing with premium quality, latest technology and advanced features for daily use",4.4
+P0137,LG Clothing Model 137,Fashion,Clothing,LG,1875,"LG Clothing with premium quality, latest technology and advanced features for daily use",4.7
+P0138,LG Cookware Model 138,Home & Kitchen,Cookware,LG,332,"LG Cookware with premium quality, latest technology and advanced features for daily use",3.9
+P0139,LG Furniture Model 139,Home & Kitchen,Furniture,LG,1100,"LG Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0140,Nike Cookware Model 140,Home & Kitchen,Cookware,Nike,1448,"Nike Cookware with premium quality, latest technology and advanced features for daily use",4.5
+P0141,Asus Shoes Model 141,Fashion,Shoes,Asus,123,"Asus Shoes with premium quality, latest technology and advanced features for daily use",4.9
+P0142,Lenovo Clothing Model 142,Fashion,Clothing,Lenovo,1681,"Lenovo Clothing with premium quality, latest technology and advanced features for daily use",4.5
+P0143,Puma Headphones Model 143,Electronics,Headphones,Puma,436,"Puma Headphones with premium quality, latest technology and advanced features for daily use",4.0
+P0144,Samsung Watches Model 144,Fashion,Watches,Samsung,1583,"Samsung Watches with premium quality, latest technology and advanced features for daily use",4.3
+P0145,Puma Accessories Model 145,Sports,Accessories,Puma,370,"Puma Accessories with premium quality, latest technology and advanced features for daily use",4.3
+P0146,Philips Outdoor Model 146,Sports,Outdoor,Philips,977,"Philips Outdoor with premium quality, latest technology and advanced features for daily use",3.8
+P0147,Adidas Cookware Model 147,Home & Kitchen,Cookware,Adidas,882,"Adidas Cookware with premium quality, latest technology and advanced features for daily use",4.7
+P0148,Adidas Clothing Model 148,Fashion,Clothing,Adidas,204,"Adidas Clothing with premium quality, latest technology and advanced features for daily use",3.8
+P0149,Nike Laptops Model 149,Electronics,Laptops,Nike,1847,"Nike Laptops with premium quality, latest technology and advanced features for daily use",4.0
+P0150,Nike Headphones Model 150,Electronics,Headphones,Nike,494,"Nike Headphones with premium quality, latest technology and advanced features for daily use",3.8
+P0151,Sony Tablets Model 151,Electronics,Tablets,Sony,1522,"Sony Tablets with premium quality, latest technology and advanced features for daily use",4.5
+P0152,LG Appliances Model 152,Home & Kitchen,Appliances,LG,624,"LG Appliances with premium quality, latest technology and advanced features for daily use",4.8
+P0153,Puma Outdoor Model 153,Sports,Outdoor,Puma,694,"Puma Outdoor with premium quality, latest technology and advanced features for daily use",4.2
+P0154,LG Appliances Model 154,Home & Kitchen,Appliances,LG,1562,"LG Appliances with premium quality, latest technology and advanced features for daily use",4.7
+P0155,Lenovo Furniture Model 155,Home & Kitchen,Furniture,Lenovo,856,"Lenovo Furniture with premium quality, latest technology and advanced features for daily use",4.4
+P0156,Asus Smartphones Model 156,Electronics,Smartphones,Asus,1501,"Asus Smartphones with premium quality, latest technology and advanced features for daily use",4.2
+P0157,LG Clothing Model 157,Fashion,Clothing,LG,880,"LG Clothing with premium quality, latest technology and advanced features for daily use",4.8
+P0158,Apple Appliances Model 158,Home & Kitchen,Appliances,Apple,872,"Apple Appliances with premium quality, latest technology and advanced features for daily use",4.2
+P0159,Sony Furniture Model 159,Home & Kitchen,Furniture,Sony,1363,"Sony Furniture with premium quality, latest technology and advanced features for daily use",4.2
+P0160,Asus Headphones Model 160,Electronics,Headphones,Asus,804,"Asus Headphones with premium quality, latest technology and advanced features for daily use",4.9
+P0161,LG Headphones Model 161,Electronics,Headphones,LG,1094,"LG Headphones with premium quality, latest technology and advanced features for daily use",4.4
+P0162,Samsung Headphones Model 162,Electronics,Headphones,Samsung,1034,"Samsung Headphones with premium quality, latest technology and advanced features for daily use",4.3
+P0163,Nike Tablets Model 163,Electronics,Tablets,Nike,1336,"Nike Tablets with premium quality, latest technology and advanced features for daily use",4.8
+P0164,LG Fitness Model 164,Sports,Fitness,LG,1159,"LG Fitness with premium quality, latest technology and advanced features for daily use",4.1
+P0165,Adidas Fitness Model 165,Sports,Fitness,Adidas,260,"Adidas Fitness with premium quality, latest technology and advanced features for daily use",3.7
+P0166,Apple Headphones Model 166,Electronics,Headphones,Apple,1521,"Apple Headphones with premium quality, latest technology and advanced features for daily use",4.8
+P0167,Dell Shoes Model 167,Fashion,Shoes,Dell,668,"Dell Shoes with premium quality, latest technology and advanced features for daily use",4.7
+P0168,Adidas Appliances Model 168,Home & Kitchen,Appliances,Adidas,840,"Adidas Appliances with premium quality, latest technology and advanced features for daily use",4.7
+P0169,Dell Cookware Model 169,Home & Kitchen,Cookware,Dell,474,"Dell Cookware with premium quality, latest technology and advanced features for daily use",5.0
+P0170,Apple Smartphones Model 170,Electronics,Smartphones,Apple,646,"Apple Smartphones with premium quality, latest technology and advanced features for daily use",3.9
+P0171,Asus Laptops Model 171,Electronics,Laptops,Asus,238,"Asus Laptops with premium quality, latest technology and advanced features for daily use",4.3
+P0172,Adidas Shoes Model 172,Fashion,Shoes,Adidas,760,"Adidas Shoes with premium quality, latest technology and advanced features for daily use",4.2
+P0173,Dell Accessories Model 173,Sports,Accessories,Dell,1881,"Dell Accessories with premium quality, latest technology and advanced features for daily use",3.9
+P0174,Philips Appliances Model 174,Home & Kitchen,Appliances,Philips,568,"Philips Appliances with premium quality, latest technology and advanced features for daily use",4.3
+P0175,Sony Headphones Model 175,Electronics,Headphones,Sony,1714,"Sony Headphones with premium quality, latest technology and advanced features for daily use",4.5
+P0176,HP Tablets Model 176,Electronics,Tablets,HP,1496,"HP Tablets with premium quality, latest technology and advanced features for daily use",4.0
+P0177,Apple Tablets Model 177,Electronics,Tablets,Apple,1375,"Apple Tablets with premium quality, latest technology and advanced features for daily use",3.8
+P0178,Samsung Shoes Model 178,Fashion,Shoes,Samsung,203,"Samsung Shoes with premium quality, latest technology and advanced features for daily use",4.4
+P0179,Nike Accessories Model 179,Sports,Accessories,Nike,280,"Nike Accessories with premium quality, latest technology and advanced features for daily use",4.5
+P0180,Puma Headphones Model 180,Electronics,Headphones,Puma,177,"Puma Headphones with premium quality, latest technology and advanced features for daily use",5.0
+P0181,Sony Smartphones Model 181,Electronics,Smartphones,Sony,770,"Sony Smartphones with premium quality, latest technology and advanced features for daily use",3.8
+P0182,Adidas Headphones Model 182,Electronics,Headphones,Adidas,1122,"Adidas Headphones with premium quality, latest technology and advanced features for daily use",3.8
+P0183,Sony Cookware Model 183,Home & Kitchen,Cookware,Sony,909,"Sony Cookware with premium quality, latest technology and advanced features for daily use",3.9
+P0184,Nike Watches Model 184,Fashion,Watches,Nike,1635,"Nike Watches with premium quality, latest technology and advanced features for daily use",4.8
+P0185,Adidas Outdoor Model 185,Sports,Outdoor,Adidas,1593,"Adidas Outdoor with premium quality, latest technology and advanced features for daily use",4.4
+P0186,Philips Furniture Model 186,Home & Kitchen,Furniture,Philips,1234,"Philips Furniture with premium quality, latest technology and advanced features for daily use",4.3
+P0187,Adidas Clothing Model 187,Fashion,Clothing,Adidas,1435,"Adidas Clothing with premium quality, latest technology and advanced features for daily use",4.7
+P0188,HP Tablets Model 188,Electronics,Tablets,HP,1573,"HP Tablets with premium quality, latest technology and advanced features for daily use",3.7
+P0189,Philips Accessories Model 189,Sports,Accessories,Philips,738,"Philips Accessories with premium quality, latest technology and advanced features for daily use",3.6
+P0190,Asus Cookware Model 190,Home & Kitchen,Cookware,Asus,951,"Asus Cookware with premium quality, latest technology and advanced features for daily use",4.8
+P0191,Apple Headphones Model 191,Electronics,Headphones,Apple,325,"Apple Headphones with premium quality, latest technology and advanced features for daily use",3.6
+P0192,Asus Laptops Model 192,Electronics,Laptops,Asus,1605,"Asus Laptops with premium quality, latest technology and advanced features for daily use",4.2
+P0193,Adidas Shoes Model 193,Fashion,Shoes,Adidas,1401,"Adidas Shoes with premium quality, latest technology and advanced features for daily use",4.0
+P0194,Sony Appliances Model 194,Home & Kitchen,Appliances,Sony,915,"Sony Appliances with premium quality, latest technology and advanced features for daily use",4.1
+P0195,Dell Smartphones Model 195,Electronics,Smartphones,Dell,648,"Dell Smartphones with premium quality, latest technology and advanced features for daily use",4.9
+P0196,Sony Headphones Model 196,Electronics,Headphones,Sony,1311,"Sony Headphones with premium quality, latest technology and advanced features for daily use",4.1
+P0197,Apple Clothing Model 197,Fashion,Clothing,Apple,613,"Apple Clothing with premium quality, latest technology and advanced features for daily use",4.5
+P0198,Nike Cookware Model 198,Home & Kitchen,Cookware,Nike,142,"Nike Cookware with premium quality, latest technology and advanced features for daily use",3.9
+P0199,Apple Smartphones Model 199,Electronics,Smartphones,Apple,669,"Apple Smartphones with premium quality, latest technology and advanced features for daily use",3.5
+P0200,Adidas Shoes Model 200,Fashion,Shoes,Adidas,1230,"Adidas Shoes with premium quality, latest technology and advanced features for daily use",4.9
